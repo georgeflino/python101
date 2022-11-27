@@ -1,3 +1,3 @@
-# Demo 2
+# Phyton 101
 
-hehe
+Phyton demo
